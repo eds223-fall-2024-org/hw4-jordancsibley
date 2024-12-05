@@ -2,6 +2,9 @@
 
 ### Environmental Data Science, HW #4
 
+![Sunset at oyster farm](https://live.staticflickr.com/2786/4413219496_dbd7cf84a4_b.jpg)
+Source: flickr.com (@KoKong)
+
 ## Description 
 
 This project identifies potential aquaculture sites for oysters and sugar kelp along the West Coast of the United States. Raster data on sea surface temperature and depth are combined and resampled to map suitable sites based on species-specific thresholds. Additionally, a custom function is developed that allows users to input a species name along with its preferred depth and temperature ranges. This function generates a suitability map and a corresponding area table, making it adaptable for evaluating other species.
